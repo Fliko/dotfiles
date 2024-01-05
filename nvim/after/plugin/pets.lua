@@ -1,0 +1,5 @@
+pets = require("pets")
+pets.create_pet("howard", "rubber-duck", "yellow")
+pets.create_pet("mojo", "dog", "black")
+pets.create_pet("smile", "slime", "pink")
+pets.toggle_hide()
